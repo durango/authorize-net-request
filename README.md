@@ -1,4 +1,4 @@
-# Authorize.net Request
+# Authorize.net Request [![Dependency Status](https://david-dm.org/durango/authorize-net-request.png)](https://david-dm.org/durango/authorize-net-request)
 
 ## Install
 
