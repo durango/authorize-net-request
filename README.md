@@ -14,6 +14,7 @@ var AuthorizeRequest = require('auth-net-request');
 var Request = new AuthorizeRequest({
   api: '123',
   key: '1234',
+  cert: '/path/to/cert.pem',
   sandbox: false // true
 });
 
