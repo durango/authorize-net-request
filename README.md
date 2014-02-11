@@ -1,4 +1,6 @@
-# Authorize.net Request [![Dependency Status](https://david-dm.org/durango/authorize-net-request.png)](https://david-dm.org/durango/authorize-net-request)
+# Authorize.net Request
+
+[![Dependency Status](https://david-dm.org/durango/authorize-net-request.svg?theme=shields.io)](https://david-dm.org/durango/authorize-net-request) [![devDependency Status](https://david-dm.org/durango/authorize-net-request/dev-status.svg?theme=shields.io)](https://david-dm.org/durango/authorize-net-request#info=devDependencies)
 
 ## Install
 
