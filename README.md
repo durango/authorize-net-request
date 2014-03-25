@@ -15,6 +15,9 @@ var Request = new AuthorizeRequest({
   api: '123',
   key: '1234',
   cert: '/path/to/cert.pem',
+  rejectUnauthorized: false, // true
+  requestCert: true, // false
+  agent: false // http.agent object
   sandbox: false // true
 });
 
