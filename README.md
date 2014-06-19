@@ -23,3 +23,7 @@ var Request = new AuthorizeRequest({
 
 Request.send(<method>, <xml>, [xmlOptions], function(err, response) {});
 ```
+
+## Note
+
+Version `>= 2.x.x` has a breaking change, all values are returned as strings rather than strings and numbers (unless the value is an object, array, etc).
