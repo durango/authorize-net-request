@@ -1,6 +1,6 @@
 {
   "name": "auth-net-request",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Authorize.net requests for Node.JS",
   "main": "index.js",
   "author": "Daniel Durante <me@danieldurante.com>",
